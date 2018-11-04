@@ -1,0 +1,10 @@
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CoreCompileInputs.cache
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\bin\Debug\Entidades.dll
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\bin\Debug\Entidades.pdb
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+C:\Users\nahuv\OneDrive\Escritorio\Program Nahu\Vallejos.Nahuel.2A.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb

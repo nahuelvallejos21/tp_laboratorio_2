@@ -1,0 +1,28 @@
+CLASE DE Programacion POR NOMBRE COMPLETO:Lopez,Juan
+
+Nombre completo: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+Legajo: 1
+Clases del día:
+Laboratorio
+Programacion
+
+ALUMNOS: 
+Nombre completo: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+Legajo: 1
+Estado de cuenta: Becado
+Toma de clases de Programacion
+
+Nombre completo: Carlos Gonzalez
+Nacionalidad: Argentino
+DNI: 12236456
+Legajo: 5
+Estado de cuenta: Cuota al día
+Toma de clases de Programacion
+
+<---------------------------------------------------------------------------------->
+
+
