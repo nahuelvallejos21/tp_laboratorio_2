@@ -5,3 +5,10 @@ C:\Users\Marchu\Desktop\T.P 1\Entidades\obj\Debug\Entidades.csprojAssemblyRefere
 C:\Users\Marchu\Desktop\T.P 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Marchu\Desktop\T.P 1\Entidades\obj\Debug\Entidades.exe
 C:\Users\Marchu\Desktop\T.P 1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\bin\Debug\Entidades.exe
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\obj\Debug\Entidades.exe
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\Entidades\obj\Debug\Entidades.pdb

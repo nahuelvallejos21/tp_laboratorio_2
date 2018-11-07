@@ -30,7 +30,7 @@ namespace MiCalculadora
             this.comboBox1.Items.Add("/");
             this.comboBox1.SelectedItem = "/";
             this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-            this.label1.AutoSize = false;
+            this.label1.AutoSize = true;
             this.comboBox1.IntegralHeight = true;
 
             this.label1.Font = new Font("familyName", 21.2f);

@@ -12,3 +12,17 @@ C:\Users\Marchu\Desktop\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreC
 C:\Users\Marchu\Desktop\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\Marchu\Desktop\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Marchu\Desktop\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\nahuv\GitHub\tp_laboratorio_2\T.P 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
