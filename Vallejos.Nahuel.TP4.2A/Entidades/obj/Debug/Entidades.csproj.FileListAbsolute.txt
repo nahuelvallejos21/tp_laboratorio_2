@@ -1,0 +1,7 @@
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,14 @@
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\nahuv\source\repos\Vallejos.Nahuel.TP4.2A\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
